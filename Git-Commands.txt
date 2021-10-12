@@ -1,0 +1,25 @@
+git config
+-------------------
+git config –global user.name “name”
+git config –global user.email “email address”  
+git config –global user.password “password”  
+
+git init
+--------------------
+git init [repository name]
+
+git clone
+--------------------
+git clone http://github.com/Imran/abc.git
+
+git add
+-------------------
+git add [filepath/filename]
+
+git commit
+--------------------
+git commit -m "message"
+
+git branch (It will list all the local branches)
+----------------------
+git branch branchName (It will create a new branch)
